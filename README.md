@@ -12,7 +12,7 @@ This repository includes the following files
 - A .ipynb file containing all code used to generate results (open in Google Colab or Jupyter notebook)
 - Data files from Movia
 
-We have also used weather data from DMI. However the files are too big to upload to GitHub, so you can access those via the following Google Drive link
+We have also used weather data from DMI. However the files are too big to upload to GitHub, so you can access those via the following Google Drive link:
 https://drive.google.com/drive/folders/1Y1-MNIpsBAvBKAEJkSs_3NwZGIN8WX_p?usp=sharing
 
 
