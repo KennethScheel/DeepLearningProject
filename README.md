@@ -6,9 +6,9 @@ This GitHub repository contains all project files and data files we used for the
 - Nikolaj Espinoza - s163848
 - Kenneth Scheel - s174488
 
-This repository includes the following files
+The repository includes the following files
 
-- Project poster for representation
+- Project poster used at the Zoom presentation
 - A .ipynb file containing all code used to generate results (open in Google Colab or Jupyter notebook)
 - Data files from Movia
 
